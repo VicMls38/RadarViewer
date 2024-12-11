@@ -48,3 +48,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+### PROJET
+
+Réaliser une application en react native qui permet d'afficher sur une map tous les radars routiers présent en france
+Le deuxième objectif et de faire un système de top time qui stock le temps effectué entre l'entré dans une zone d'un radar, jusqu'à ça sortie (le top time étant le temps le plus rapide effectué).
+L'application utilise strapi pour pouvoir facilement stocker les données ainsi que les requêter facilement
+
+
+![Screenshot]
+(./assets/images/screenshot.jpg)

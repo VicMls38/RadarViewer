@@ -300,7 +300,7 @@ export default function App() {
           <Circle
             key={index}
             center={coordinate}
-            radius={30}
+            radius={80}
             strokeWidth={2}
             strokeColor="blue"
             fillColor="rgba(0, 0, 255, 0.3)"
