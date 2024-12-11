@@ -58,5 +58,4 @@ Le deuxième objectif et de faire un système de top time qui stock le temps eff
 L'application utilise strapi pour pouvoir facilement stocker les données ainsi que les requêter facilement
 
 
-![Screenshot]
-(./assets/images/screenshot.jpg)
+![Screenshot](./assets/images/screenshot.jpg)
